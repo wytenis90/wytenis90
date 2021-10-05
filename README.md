@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vytenis
-- 👀 I’m interested in 2D/3D modeling, animating
+- 👀 I’m interested in 2D/3D modeling, animating, video editing.
 - 🌱 I’m currently learning Swift/iOS development
 
 <!---
